@@ -7,6 +7,7 @@ import { StarRating } from './StarRating';
 import { useCart } from '../../context/CartContext';
 import { useWishlist } from '../../context/WishlistContext';
 import { useUI } from '../../context/UIContext';
+import { SafeImage } from './SafeImage';
 
 interface ProductCardProps {
   product: Product;
@@ -57,7 +58,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
       {/* Image Container */}
       <div className="relative aspect-4/5 w-full bg-[#F7F1E8] overflow-hidden cursor-pointer">
         <Link to={`/product/${product.slug}`}>
-          <img
+          <SafeImage
             src={currentImage}
             alt={product.name}
             loading="lazy"

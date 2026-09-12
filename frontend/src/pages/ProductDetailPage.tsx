@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { PRODUCTS } from '../data/products';
 import { ProductCard } from '../components/common/ProductCard';
+import { SafeImage } from '../components/common/SafeImage';
 import { Accordion } from '../components/common/Accordion';
 import { StarRating } from '../components/common/StarRating';
 import { formatINR, generateWhatsAppLink } from '../utils/pricing';
@@ -148,7 +149,7 @@ export const ProductDetailPage: React.FC = () => {
           {/* Left: Gallery (7 Cols) */}
           <div className="lg:col-span-7 space-y-4">
             <div className="aspect-4/5 w-full bg-[#FAF8F5] border border-[#E8E2D9] overflow-hidden relative">
-              <img
+              <SafeImage
                 src={product.images[selectedImageIndex] || product.images[0]}
                 alt={product.name}
                 className="w-full h-full object-cover object-center"
@@ -173,7 +174,7 @@ export const ProductDetailPage: React.FC = () => {
                         : 'border-[#E8E2D9] opacity-70 hover:opacity-100'
                     }`}
                   >
-                    <img src={img} alt="" className="w-full h-full object-cover" />
+                    <SafeImage src={img} alt="" className="w-full h-full object-cover" />
                   </button>
                 ))}
               </div>

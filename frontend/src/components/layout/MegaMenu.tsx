@@ -31,7 +31,7 @@ const CATEGORY_ITEMS: CategoryItem[] = [
   {
     name: 'Temple Jewellery',
     path: '/shop?category=Temple',
-    image: 'https://images.unsplash.com/photo-1611591475168-e67b2d56a73c?auto=format&fit=crop&w=200&q=80',
+    image: 'https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=200&q=80',
   },
   {
     name: 'Cubic Zirconia',
@@ -51,7 +51,7 @@ const CATEGORY_ITEMS: CategoryItem[] = [
   {
     name: 'Bracelets',
     path: '/shop?category=Bracelets',
-    image: 'https://images.unsplash.com/photo-1611591475168-e67b2d56a73c?auto=format&fit=crop&w=200&q=80',
+    image: 'https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=200&q=80',
   },
   {
     name: 'Rings',
@@ -76,7 +76,7 @@ const CATEGORY_ITEMS: CategoryItem[] = [
   {
     name: 'Bangles',
     path: '/shop?category=Bracelets',
-    image: 'https://images.unsplash.com/photo-1611591475168-e67b2d56a73c?auto=format&fit=crop&w=200&q=80',
+    image: 'https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=200&q=80',
   },
   {
     name: 'Pendants',
@@ -441,7 +441,7 @@ export const MegaMenu: React.FC<MegaMenuProps> = ({
                 className="group relative rounded-[14px] overflow-hidden border border-[#E8E1D8] shadow-sm cursor-pointer h-[220px] flex flex-col justify-end p-5 text-white"
               >
                 <img
-                  src="https://images.unsplash.com/photo-1611591475168-e67b2d56a73c?auto=format&fit=crop&w=800&q=85"
+                  src="https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=85"
                   alt="Divine Temple Artistry"
                   className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
                 />
@@ -498,7 +498,7 @@ export const MegaMenu: React.FC<MegaMenuProps> = ({
                 className="group relative rounded-[14px] overflow-hidden border border-[#E8E1D8] shadow-sm cursor-pointer h-[220px] flex flex-col justify-end p-5 text-white"
               >
                 <img
-                  src="https://images.unsplash.com/photo-1611591475168-e67b2d56a73c?auto=format&fit=crop&w=800&q=85"
+                  src="https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=85"
                   alt="Graceful Wristwear"
                   className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
                 />

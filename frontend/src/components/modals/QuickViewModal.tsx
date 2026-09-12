@@ -6,6 +6,7 @@ import { useCart } from '../../context/CartContext';
 import { useWishlist } from '../../context/WishlistContext';
 import { formatINR, generateWhatsAppLink } from '../../utils/pricing';
 import { StarRating } from '../common/StarRating';
+import { SafeImage } from '../common/SafeImage';
 
 export const QuickViewModal: React.FC = () => {
   const { quickViewProduct, setQuickViewProduct, showToast } = useUI();
@@ -85,7 +86,7 @@ export const QuickViewModal: React.FC = () => {
         {/* Left: Gallery */}
         <div className="w-full md:w-1/2 p-6 bg-[#FAF8F5] flex flex-col justify-between">
           <div className="aspect-4/5 w-full bg-white border border-[#E8E2D9] overflow-hidden mb-4 relative">
-            <img
+            <SafeImage
               src={quickViewProduct.images[selectedImageIndex] || quickViewProduct.images[0]}
               alt={quickViewProduct.name}
               className="w-full h-full object-cover object-center"
@@ -110,7 +111,7 @@ export const QuickViewModal: React.FC = () => {
                       : 'border-[#E8E2D9] opacity-70 hover:opacity-100'
                   }`}
                 >
-                  <img src={img} alt="" className="w-full h-full object-cover" />
+                  <SafeImage src={img} alt="" className="w-full h-full object-cover" />
                 </button>
               ))}
             </div>

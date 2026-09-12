@@ -33,7 +33,7 @@ const OCCASIONS: Occasion[] = [
     name: 'Party Wear',
     subtitle: 'Shimmering CZ Diamonds & Statement Chokers',
     href: '/shop?occasion=Party+Wear',
-    image: 'https://images.unsplash.com/photo-1611591475168-e67b2d56a73c?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=80',
     alt: 'Kuveras Party Wear Jewellery Collection',
   },
   {

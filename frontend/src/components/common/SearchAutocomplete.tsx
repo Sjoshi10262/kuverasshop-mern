@@ -2,6 +2,7 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { PRODUCTS } from '../../data/products';
 import { formatINR } from '../../utils/pricing';
+import { SafeImage } from './SafeImage';
 
 interface SearchAutocompleteProps {
   query: string;
@@ -102,7 +103,7 @@ export const SearchAutocomplete: React.FC<SearchAutocompleteProps> = ({
                 className="flex items-center gap-3 p-2 rounded hover:bg-[#FFFDF8] border border-transparent hover:border-[#EEEAE4] transition-all cursor-pointer group"
               >
                 <div className="w-12 h-14 bg-[#FAF8F5] overflow-hidden rounded shrink-0 border border-[#E5E1DC]">
-                  <img
+                  <SafeImage
                     src={product.images[0]}
                     alt={product.name}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"

@@ -4,6 +4,7 @@ import { useCart } from '../../context/CartContext';
 import { useWishlist } from '../../context/WishlistContext';
 import { useUI } from '../../context/UIContext';
 import { formatINR } from '../../utils/pricing';
+import { SafeImage } from '../common/SafeImage';
 
 export const CartDrawer: React.FC = () => {
   const { isCartOpen, closeCart, showToast } = useUI();
@@ -123,7 +124,7 @@ export const CartDrawer: React.FC = () => {
           ) : (
             cart.map((item) => (
               <div key={item.product.id + (item.isRental ? '_rental' : '')} className="py-4 flex gap-4">
-                <img
+                <SafeImage
                   src={item.product.images[0]}
                   alt={item.product.name}
                   className="w-20 h-24 object-cover object-center bg-[#F5EFE5] border border-[#EDE3D4] shrink-0"

@@ -4,6 +4,7 @@ import { X, Search, ArrowRight, Tag } from 'lucide-react';
 import { useUI } from '../../context/UIContext';
 import { PRODUCTS } from '../../data/products';
 import { formatINR } from '../../utils/pricing';
+import { SafeImage } from '../common/SafeImage';
 
 export const SearchModal: React.FC = () => {
   const { isSearchOpen, setIsSearchOpen } = useUI();
@@ -107,7 +108,7 @@ export const SearchModal: React.FC = () => {
                 className="py-3 flex items-center justify-between group cursor-pointer hover:bg-[#FFFDF9] px-2 transition-colors"
               >
                 <div className="flex items-center gap-4">
-                  <img
+                  <SafeImage
                     src={product.images[0]}
                     alt={product.name}
                     className="w-12 h-14 object-cover border border-[#E8E2D9]"

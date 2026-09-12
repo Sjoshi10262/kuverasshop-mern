@@ -4,6 +4,7 @@ import { useWishlist } from '../../context/WishlistContext';
 import { useCart } from '../../context/CartContext';
 import { useUI } from '../../context/UIContext';
 import { formatINR } from '../../utils/pricing';
+import { SafeImage } from '../common/SafeImage';
 
 export const WishlistDrawer: React.FC = () => {
   const { isWishlistOpen, closeWishlist, setQuickViewProduct, showToast } = useUI();
@@ -66,7 +67,7 @@ export const WishlistDrawer: React.FC = () => {
           ) : (
             wishlist.map((product) => (
               <div key={product.id} className="py-4 flex gap-4">
-                <img
+                <SafeImage
                   src={product.images[0]}
                   alt={product.name}
                   className="w-20 h-24 object-cover object-center bg-[#FFFDF9] border border-[#E8E2D9] shrink-0"

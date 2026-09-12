@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 import { ShoppingBag, Trash2, Plus, Minus, ArrowRight, Truck, Tag } from 'lucide-react';
 import { useUI } from '../context/UIContext';
 import { useWishlist } from '../context/WishlistContext';
+import { SafeImage } from '../components/common/SafeImage';
 
 export const CartPage: React.FC = () => {
   const {
@@ -83,7 +84,7 @@ export const CartPage: React.FC = () => {
                 {cart.map((item) => (
                   <div key={item.product.id} className="p-6 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
                     <div className="flex items-center gap-4">
-                      <img
+                      <SafeImage
                         src={item.product.images[0]}
                         alt={item.product.name}
                         className="w-20 h-24 object-cover border border-[#E8E2D9]"

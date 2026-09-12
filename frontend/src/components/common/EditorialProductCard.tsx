@@ -5,6 +5,7 @@ import type { Product } from '../../types';
 import { formatINR } from '../../utils/pricing';
 import { useWishlist } from '../../context/WishlistContext';
 import { useUI } from '../../context/UIContext';
+import { SafeImage } from './SafeImage';
 
 interface EditorialProductCardProps {
   product: Product;
@@ -49,7 +50,7 @@ export const EditorialProductCard: React.FC<EditorialProductCardProps> = ({
       {/* Product Image Frame */}
       <div className={`relative ${aspectRatio} w-full bg-[#FAF8F5] overflow-hidden cursor-pointer mb-4 border border-[#F2EDE4] group-hover:border-[#E5E1DC] transition-colors`}>
         <Link to={`/product/${product.slug}`} className="block w-full h-full">
-          <img
+          <SafeImage
             src={currentImage}
             alt={product.seoTitle || product.name}
             loading="lazy"
