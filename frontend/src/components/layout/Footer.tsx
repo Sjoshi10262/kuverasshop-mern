@@ -170,7 +170,7 @@ export const Footer: React.FC = () => {
 
         {/* ── Bottom copyright bar ── */}
         <div className="kv-footer-bottom">
-          <p>© {new Date().getFullYear()} Kuveras Fine Jewellery. All rights reserved.</p>
+          <p>™ {new Date().getFullYear()} Kuveras Fine Jewellery. All rights reserved.</p>
         </div>
       </footer>
 
