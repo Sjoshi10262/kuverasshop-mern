@@ -2,6 +2,7 @@ import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
 import path from 'path';
+import fs from 'fs';
 import { fileURLToPath } from 'url';
 import { connectDB } from './config/db.js';
 import productRoutes from './routes/productRoutes.js';
@@ -36,8 +37,12 @@ app.get('/api/health', (req, res) => {
 app.use('/api/products', productRoutes);
 app.use('/api/orders', orderRoutes);
 
-// Serve static frontend assets in production if available
-const distPath = path.join(__dirname, '../frontend/dist');
+// Determine dist directory (check backend/dist first, then ../frontend/dist)
+const localDistPath = path.join(__dirname, 'dist');
+const parentDistPath = path.join(__dirname, '../frontend/dist');
+const distPath = fs.existsSync(localDistPath) ? localDistPath : parentDistPath;
+
+console.log(`📁 Serving static assets from: ${distPath}`);
 app.use(express.static(distPath));
 
 app.get('*', (req, res, next) => {
@@ -45,11 +50,11 @@ app.get('*', (req, res, next) => {
     return next();
   }
   const indexPath = path.join(distPath, 'index.html');
-  res.sendFile(indexPath, (err) => {
-    if (err) {
-      res.status(200).send('Kuveras Fine Jewellery MERN Backend is active.');
-    }
-  });
+  if (fs.existsSync(indexPath)) {
+    res.sendFile(indexPath);
+  } else {
+    res.status(200).send('Kuveras Fine Jewellery MERN Backend is active.');
+  }
 });
 
 // Error handling middleware
