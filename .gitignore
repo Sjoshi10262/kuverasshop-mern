@@ -15,9 +15,7 @@ backend/node_modules/
 /.yarn
 
 # Build output
-dist/
 frontend/dist/
-backend/dist/
 dist-ssr/
 build/
 *.tsbuildinfo
