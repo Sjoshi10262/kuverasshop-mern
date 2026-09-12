@@ -2,9 +2,9 @@ import mongoose from 'mongoose';
 
 export const connectDB = async () => {
   try {
-    const connStr = process.env.MONGODB_URI;
+    const connStr = process.env.MONGODB_URI || process.env.MONGODB_URL;
     if (!connStr) {
-      console.warn('⚠️ MONGODB_URI is not defined in environment variables. Database connection skipped for initial startup.');
+      console.warn('⚠️ MONGODB_URI / MONGODB_URL is not defined in environment variables. Database connection skipped for initial startup.');
       return;
     }
     const conn = await mongoose.connect(connStr);
