@@ -3,16 +3,21 @@
 .env.local
 .env.*.local
 *.env
+frontend/.env
+backend/.env
 
 # Dependencies
 node_modules/
-server/node_modules/
+frontend/node_modules/
+backend/node_modules/
 /node_modules
 /.pnpm
 /.yarn
 
 # Build output
 dist/
+frontend/dist/
+backend/dist/
 dist-ssr/
 build/
 *.tsbuildinfo

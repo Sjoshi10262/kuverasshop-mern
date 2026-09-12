@@ -1,147 +1,152 @@
-# Kuveras Fine Jewellery — MERN Web Application
+# Kuveras Fine Jewellery — MERN Stack Application
 
-A premium luxury Indian e-commerce web application for **Kuveras Fine Jewellery**, featuring exquisite bridal, temple, antique, and gemstone collections with an interactive mega-menu navigation experience.
-
----
-
-## 🌟 Tech Stack
-
-### Frontend
-- **Framework:** React 19 (Vite)
-- **Styling:** Tailwind CSS v4, Custom Luxury CSS Theme System
-- **Icons:** Lucide React
-- **Routing:** React Router DOM v7
-- **Language:** TypeScript / JavaScript
-
-### Backend
-- **Runtime:** Node.js (ES Modules)
-- **Framework:** Express.js
-- **Database:** MongoDB Atlas via Mongoose
-- **Security & Utilities:** CORS, Dotenv
+A full-stack luxury e-commerce web application built for **Kuveras Fine Jewellery**. Features a dynamic, modern React + Tailwind CSS frontend coupled with a robust Node.js, Express, and MongoDB RESTful backend.
 
 ---
 
-## 📁 Project Structure
+## 📁 Repository Structure
 
 ```
 kuverasshop-mern/
-├── public/                 # Static public assets (images, icons, logo)
-├── server/                 # Express backend server
-│   ├── config/             # Database connection setup (db.js)
-│   ├── models/             # Mongoose schemas (Product, Order, User)
-│   ├── routes/             # API routes (productRoutes, orderRoutes)
-│   ├── index.js            # Main backend entry point
-│   └── package.json        # Backend package definition
-├── src/                    # React frontend source code
-│   ├── components/         # UI components (Header, Footer, Mega Menu, Cards)
-│   ├── data/               # Static product & category datasets
-│   ├── types/              # TypeScript interface definitions
-│   ├── App.tsx             # Main React application component
-│   └── index.css           # Global luxury styling & typography system
-├── .env.example            # Environment variable template (sanitized)
-├── .gitignore              # Files excluded from Git tracking
-├── index.html              # Frontend HTML entry
-├── package.json            # Root configuration & scripts
-├── tailwind.config.js      # Tailwind styling setup
-└── vite.config.ts          # Vite build configuration
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── context/
+│   │   ├── data/
+│   │   └── types/
+│   ├── .env
+│   ├── .env.example
+│   ├── index.html
+│   ├── package.json
+│   ├── postcss.config.js
+│   ├── tailwind.config.js
+│   ├── tsconfig.json
+│   └── vite.config.js
+│
+├── backend/
+│   ├── config/
+│   │   └── db.js
+│   ├── controllers/
+│   │   ├── productController.js
+│   │   └── orderController.js
+│   ├── middleware/
+│   │   └── errorMiddleware.js
+│   ├── models/
+│   │   ├── Product.js
+│   │   ├── Order.js
+│   │   └── User.js
+│   ├── routes/
+│   │   ├── productRoutes.js
+│   │   └── orderRoutes.js
+│   ├── .env
+│   ├── .env.example
+│   ├── package.json
+│   └── server.js
+│
+└── README.md
 ```
 
 ---
 
-## 🚀 Local Installation & Setup
+## ✨ Features
+
+- **Luxury User Interface**: Custom responsive hero sections, product tabs, interactive modals (Auth, Store Locator, Inquiry), and fluid animations.
+- **Product Management API**: Express & MongoDB REST endpoints for fetching products, filtering by category, and viewing detailed product specifications (metal, purity, weight, price, rating).
+- **Order Management API**: Submit purchase orders and track status (Pending, Processing, Completed).
+- **Architecture**: Separated Frontend (Vite + React) and Backend (Express + Mongoose MVC architecture) with API proxying.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React 19, Vite, Tailwind CSS, Lucide Icons, TypeScript
+- **Backend**: Node.js, Express.js, MongoDB (Mongoose ORM), CORS, Dotenv
+- **Deployment**: Configured for static serving or standalone server hosting
+
+---
+
+## 🚀 Getting Started
 
 ### Prerequisites
-- **Node.js**: v18.x or higher
-- **npm**: v9.x or higher
-- **MongoDB Atlas Account**: Database connection URI
-
-### Step 1: Clone Repository
-```bash
-git clone https://github.com/Sjoshi10262/kuverasshop-mern.git
-cd kuverasshop-mern
-```
-
-### Step 2: Install Dependencies
-Install root (frontend) dependencies:
-```bash
-npm install
-```
-
-Install backend dependencies:
-```bash
-cd server
-npm install
-cd ..
-```
+- Node.js (v18+ recommended)
+- npm or yarn
+- MongoDB connection URI (Local or MongoDB Atlas)
 
 ---
 
-## 🔐 Environment Variables
+### 1. Backend Setup
 
-Create a `.env` file in the root directory (or inside `server/`) based on `.env.example`:
-
-```env
-PORT=5000
-NODE_ENV=development
-MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.example.mongodb.net/kuverasshop?retryWrites=true&w=majority
-JWT_SECRET=your_jwt_secret_key_here
-FRONTEND_URL=http://localhost:5173
-```
-
-> **Note:** Never commit `.env` files to Git repositories.
-
----
-
-## 🛠️ Build & Start Instructions
-
-### Frontend Build
-To build the production-ready Vite frontend:
 ```bash
-npm run build
-```
-This generates the optimized production build artifacts in the `/dist` directory.
+# Navigate to backend directory
+cd backend
 
-### Backend Server Start
-To start the Node/Express backend server:
-```bash
-npm run start
-# or
-npm run server
-```
+# Install dependencies
+npm install
 
-### Local Development Mode
-To run the frontend dev server:
-```bash
+# Configure environment variables
+# Copy .env.example to .env and fill in your MongoDB URI
+cp .env.example .env
+
+# Run backend server in development mode
 npm run dev
 ```
 
----
-
-## 🌐 Hostinger Deployment Notes
-
-### 1. Node.js Application Setup
-- In Hostinger hPanel, go to **Node.js Web App** manager.
-- **Node.js Version:** 18.x or 20.x
-- **Application Root:** `/public_html` (or project root directory)
-- **Application Startup File / Entry File:** `server/index.js`
-- **Application Mode:** `production`
-
-### 2. Environment Variables in Hostinger
-Add the required environment variables in Hostinger Node.js configuration panel:
-- `PORT` = `5000` (or assigned host port)
-- `NODE_ENV` = `production`
-- `MONGODB_URI` = `<Your Production MongoDB Connection String>`
-- `JWT_SECRET` = `<Your Production Secret Key>`
-
-### 3. Deployment Commands on Hostinger
-- **Build Command:** `npm run build`
-- **Start Command:** `npm start`
-- **Entry File:** `server/index.js`
+The backend server will run on `http://localhost:5000`.
 
 ---
 
-## 🔒 Security Audit Verification
-- `.env` files are ignored via `.gitignore`
-- No database credentials or private keys committed
-- `node_modules/` excluded from repository
-- `.env.example` contains sanitized placeholder keys only
+### 2. Frontend Setup
+
+```bash
+# Navigate to frontend directory
+cd frontend
+
+# Install dependencies
+npm install
+
+# Run frontend development server
+npm run dev
+```
+
+The React frontend will run on `http://localhost:5173`.
+
+---
+
+## 🔌 API Endpoints
+
+### Health Check
+- `GET /api/health` — Check server status
+
+### Products
+- `GET /api/products` — Fetch all products (optional query param: `?category=Rings`)
+- `GET /api/products/:id` — Get product by ID
+- `POST /api/products` — Create a new product
+
+### Orders
+- `GET /api/orders` — Fetch all orders
+- `POST /api/orders` — Submit a new order
+
+---
+
+## 📄 Environment Variables
+
+### Backend (`backend/.env`)
+```env
+PORT=5000
+MONGODB_URI=your_mongodb_connection_string
+NODE_ENV=development
+```
+
+### Frontend (`frontend/.env`)
+```env
+VITE_API_URL=http://localhost:5000/api
+```
+
+---
+
+## 🤝 Contributing & Repository
+
+Repository: [Sjoshi10262/kuverasshop-mern](https://github.com/Sjoshi10262/kuverasshop-mern.git)

@@ -1,11 +1,9 @@
-import express from 'express';
 import Product from '../models/Product.js';
 
-const router = express.Router();
-
-// @route   GET /api/products
 // @desc    Fetch all products with optional category filtering
-router.get('/', async (req, res) => {
+// @route   GET /api/products
+// @access  Public
+export const getProducts = async (req, res) => {
   try {
     const { category } = req.query;
     const filter = category ? { category } : {};
@@ -14,11 +12,12 @@ router.get('/', async (req, res) => {
   } catch (error) {
     res.status(500).json({ success: false, message: error.message });
   }
-});
+};
 
-// @route   GET /api/products/:id
 // @desc    Fetch single product by ID
-router.get('/:id', async (req, res) => {
+// @route   GET /api/products/:id
+// @access  Public
+export const getProductById = async (req, res) => {
   try {
     const product = await Product.findById(req.params.id);
     if (!product) {
@@ -28,17 +27,16 @@ router.get('/:id', async (req, res) => {
   } catch (error) {
     res.status(500).json({ success: false, message: error.message });
   }
-});
+};
 
-// @route   POST /api/products
 // @desc    Create a new product
-router.post('/', async (req, res) => {
+// @route   POST /api/products
+// @access  Public (or Admin)
+export const createProduct = async (req, res) => {
   try {
     const product = await Product.create(req.body);
     res.status(201).json({ success: true, data: product });
   } catch (error) {
     res.status(400).json({ success: false, message: error.message });
   }
-});
-
-export default router;
+};
