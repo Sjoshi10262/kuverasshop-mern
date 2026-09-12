@@ -16,9 +16,8 @@ export const PRODUCTS: Product[] = [
     "description": "Designed with precision and grace, this radiant collar set features rows of glimmering marquise-shaped motifs, each surrounded by delicate floral accents. The gentle fall of each element creates a soft, cascading neckline—perfectly balanced by long, coordinated earrings that mirror the design.Includes: Necklace and matching earrings.",
     "shortDescription": "An intricate diamond-look collar set with layered marquise motifs and matching drop earrings.",
     "images": [
-      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2376-scaled-e1746799678318.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2376-scaled-e1746799678318.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -60,9 +59,8 @@ export const PRODUCTS: Product[] = [
     "description": "This elegant collar necklace dazzles with its tightly woven diamond-like teardrops in a shimmering, symmetric layout. Paired with stunning layered jhumkas and a floral maang tikka that echoes the moon&#8217;s grace, this set speaks to timeless sophistication and poise.Includes: Necklace, matching earrings, and maang tikka.",
     "shortDescription": "A brilliant diamond-look collar set with jhumka earrings and a regal, lotus-inspired maang tikka.",
     "images": [
-      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2391-scaled-e1746798958973.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2391-scaled-e1746798958973.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -104,9 +102,8 @@ export const PRODUCTS: Product[] = [
     "description": "This short necklace set features luminous green stones encircled by intricate silver detailing, finished with pointed drop accents that echo classical artistry. Matching earrings carry the same poised symmetry for a complete, refined look. Ideal for day weddings or light-toned celebrations.Includes: Necklace and matching earrings.",
     "shortDescription": "An airy composition of silver and mint tones, designed for soft, radiant sophistication.",
     "images": [
-      "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2416-scaled-e1746708501516.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2416-scaled-e1746708501516.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -148,9 +145,8 @@ export const PRODUCTS: Product[] = [
     "description": "Featuring soft pink gems framed in intricate silver-toned settings, this choker brings a subtle yet captivating sparkle to any ensemble. The tiered hanging drops add gentle movement, while the matching earrings reflect the same elegant geometry in a sleek form. Ideal for light festive occasions and evening celebrations.Includes: Necklace and matching earrings.",
     "shortDescription": "Delicate and striking, this rose-pink choker set captures the essence of refined grace.",
     "images": [
-      "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1535632787350-4e68ef0ac584?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2436-scaled-e1746707707253.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2436-scaled-e1746707707253.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -192,9 +188,8 @@ export const PRODUCTS: Product[] = [
     "description": "This dainty necklace is a celebration of understated elegance, with alternating blush pink and mint green stones framed by luminous white florals. The structured yet feminine layout creates a fresh and graceful impression. Paired with matching earrings that echo the same pastel harmony, it’s an exquisite pick for day events or intimate gatherings.Includes: Necklace and matching earrings.",
     "shortDescription": "Delicate hues of blush and mint come together in this soft, radiant design inspired by evening starlight.",
     "images": [
-      "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2443-scaled-e1746706011294.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2443-scaled-e1746706011294.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -236,9 +231,8 @@ export const PRODUCTS: Product[] = [
     "description": "Crafted with delicate symmetry, this necklace features alternating openwork medallions and sapphire-toned stones, creating a refined yet striking silhouette. The deep blue hints lend depth against the brilliance of white stones, while the ornate crescent-style earrings bring a graceful finishing touch. A sophisticated choice for twilight occasions or formal gatherings.Includes: Necklace and matching earrings.",
     "shortDescription": "A radiant blend of crescent motifs and deep blue accents, this necklace echoes regal charm in every curve.",
     "images": [
-      "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1629224316810-9d8805b95e76?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2449-scaled-e1746705546866.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2449-scaled-e1746705546866.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -280,9 +274,8 @@ export const PRODUCTS: Product[] = [
     "description": "Designed in a lush arrangement of teardrop and marquise-cut stones, this piece captivates with its rich red brilliance and striking symmetry. The layered sparkle of crimson and white gives it a festive grandeur, ideal for evening weddings or formal occasions. Comes with matching earrings that mirror the same elegant composition.Includes: Necklace and matching earrings.",
     "shortDescription": "A bold, gem-rich necklace in deep crimson tones, framed with shimmering white accents for a timeless statement.",
     "images": [
-      "https://images.unsplash.com/photo-1629224316810-9d8805b95e76?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2455-scaled-e1746704750695.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2455-scaled-e1746704750695.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -324,9 +317,8 @@ export const PRODUCTS: Product[] = [
     "description": "Elegantly crafted in deep ruby red and soft gold tones, this necklace blooms with petal-like forms and teardrop highlights. The dainty symmetrical design gives it a light yet regal aura, perfect for pairing with silk sarees or festive lehengas. The matching earrings echo the floral charm for a graceful, complete look.Includes: Necklace and matching earrings.",
     "shortDescription": "A radiant ruby-toned necklace set with glistening drops and floral accents in an antique-inspired finish.",
     "images": [
-      "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2426-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2426-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -368,9 +360,8 @@ export const PRODUCTS: Product[] = [
     "description": "Refined and graceful, this two-layered necklace features a beautiful interplay of oval and baguette-cut stones in a fresh mint hue. The soft pastel green glows against the intricate rose gold setting, while a central drop element adds length and elegance. An ideal set for daytime weddings or spring festivities.Includes: Necklace and matching earrings.",
     "shortDescription": "A delicate pastel-toned necklace set with hints of mint green and soft rose gold accents.",
     "images": [
-      "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1512540315028-2c1a6497da04?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1598560917505-59a3ad559071?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2460-scaled-e1746704164202.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2460-scaled-e1746704164202.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -412,9 +403,8 @@ export const PRODUCTS: Product[] = [
     "description": "This polished necklace set stands out with its lattice of square-cut stones framed in rose gold, each section linked seamlessly to create a bold yet graceful drape. Lustrous teardrop crystals hang from each segment, lending fluidity and sparkle to its structured form. A perfect choice for modern weddings or upscale evening soirées.Includes: Necklace and matching earrings.",
     "shortDescription": "A radiant rose gold necklace with elegant square-cut elements and shimmering teardrop stones.",
     "images": [
-      "https://images.unsplash.com/photo-1598560917505-59a3ad559071?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1561828995-aa79a2db86dd?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2470-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2470-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -455,9 +445,8 @@ export const PRODUCTS: Product[] = [
     "description": "This elegant choker features intricate filigree-style craftsmanship in a gleaming silver finish, crowned by bold ruby red teardrop stones that lend a dramatic contrast. The balanced design offers a contemporary yet timeless charm, perfect for evening soirées or bridal finery with a modern twist.Includes: Choker and matching earrings.",
     "shortDescription": "A graceful silver-toned choker set with deep ruby red stones — refined, striking, and versatile.",
     "images": [
-      "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2481-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2481-scaled.jpg"
     ],
     "tags": [
       "Choker Set"
@@ -499,9 +488,8 @@ export const PRODUCTS: Product[] = [
     "description": "Layered with dazzling kundan stones in round and teardrop forms, this striking piece captures a deep royal elegance. Rich green bead clusters and matching drops add lush contrast, beautifully offsetting the classic gold-toned finish. Whether worn as a statement necklace or a bridal showpiece, it speaks of refined taste and timeless grandeur.Includes: Necklace and matching earrings.",
     "shortDescription": "A regal kundan necklace set adorned with emerald-green drops and fine detailing that commands a presence.",
     "images": [
-      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2488-scaled-e1746534355806.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2488-scaled-e1746534355806.jpg"
     ],
     "tags": [
       "kundan"
@@ -543,9 +531,8 @@ export const PRODUCTS: Product[] = [
     "description": "This majestic set showcases cascading strands of delicate beads, each layer enriched with traditional textures and warm gold tones. Crimson and emerald accents glimmer through the design, evoking a regal charm. The bold shoulder drape motif and oversized jhumkas lend weight and presence, perfect for bridal or ceremonial elegance. A timeless homage to heritage opulence.\n\nIncludes: Necklace and matching earrings",
     "shortDescription": "A resplendent multi-layered necklace woven with pearls, deep-hued stones, and ornate jhumkas — echoing the grandeur of royal tradition.",
     "images": [
-      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2268-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2268-scaled.jpg"
     ],
     "tags": [
       "Long Necklace Set",
@@ -588,9 +575,8 @@ export const PRODUCTS: Product[] = [
     "description": "Gulbadan Choker captures delicate beauty with a touch of drama. The centerpiece is a kundan-set floral tile framed by pastel pink and green beading, giving the piece an old-world grace. The choker finishes with clusters of blush-toned beads, adding softness to its structured silhouette. A rare blend of craftsmanship and contemporary elegance.Includes: Beaded choker necklace, matching earrings.",
     "shortDescription": "A soft mauve beaded choker crowned with a floral kundan panel and blush-toned droplets.",
     "images": [
-      "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1535632787350-4e68ef0ac584?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2261-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2261-scaled.jpg"
     ],
     "tags": [
       "Choker Set"
@@ -632,9 +618,8 @@ export const PRODUCTS: Product[] = [
     "description": "Pancharatna Mala is designed with five lustrous rows of kundan stones in alternating cuts, giving it depth and subtle texture. Whether styled as a bold choker or allowed to fall naturally like a necklace, it sits close to the collar with regal poise. Accented with dome-shaped jhumkis, this piece celebrates balance, light, and timeless craft.Includes: Adjustable necklace, matching earrings, Maang tikka.",
     "shortDescription": "A five-layer kundan necklace that sits beautifully as both choker and necklace.",
     "images": [
-      "https://images.unsplash.com/photo-1535632787350-4e68ef0ac584?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2246-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2246-scaled.jpg"
     ],
     "tags": [
       "Choker Set",
@@ -677,9 +662,8 @@ export const PRODUCTS: Product[] = [
     "description": "The Shringarika set is a celebration of heritage opulence, showcasing layers of finely carved detailing across a wide choker silhouette. Intricate paisley and floral patterns cascade into dangling golden elements, punctuated with rich green beads for depth and drama. A coordinating maang tikka and earrings mirror the same regal design, making this an unforgettable choice for festive finery.Includes: Choker, matching earrings, maang tikka.",
     "shortDescription": "A resplendent temple-style masterpiece with intricate motifs, antique gold finish, and lush green accents.",
     "images": [
-      "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2234-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2234-scaled.jpg"
     ],
     "tags": [
       "Choker Set"
@@ -721,9 +705,8 @@ export const PRODUCTS: Product[] = [
     "description": "he Rajvanta Ranjana is a masterwork of regal design, blending lush green beads with alternating kundan squares in an exquisite mala-style necklace. The majestic pendant showcases a cluster of traditional kundan florets, flanked by hand-engraved panels and finished with three ornate jhumki drops. Paired with matching temple-style earrings, this set is a true reflection of royal lineage and festive opulence.Includes: Necklace, matching earrings.",
     "shortDescription": "A striking Rajwadi ensemble with deep emerald tones, bold kundan work, and grand floral elements steeped in royal splendour.",
     "images": [
-      "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1629224316810-9d8805b95e76?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2222-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2222-scaled.jpg"
     ],
     "tags": [
       "Long Necklace Set"
@@ -765,9 +748,8 @@ export const PRODUCTS: Product[] = [
     "description": "The Sharvani Petalwork set features a dainty row of lotus-style floral motifs, each handcrafted to perfection in antique gold finish. At the centre hangs a regal pendant, adorned with deep red stones and fine filigree detailing, cascading into a vintage drop. Paired with charming earrings that echo the pendant&#8217;s silhouette, this set carries an air of temple elegance with a feminine flourish.Includes: Necklace, matching earrings.",
     "shortDescription": "An antique-inspired floral necklace with a captivating central pendant, glowing in soft gold tones and garnet accents.",
     "images": [
-      "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2216-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2216-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -809,9 +791,8 @@ export const PRODUCTS: Product[] = [
     "description": "The Varnika Meenakari set showcases fine meenakari craftsmanship in soft mint green, delicately bordered in gold. At its heart lies a vivid ruby-hued drop, mirrored in the earrings and maang tikka — creating perfect balance and allure. This refined design flows gently along the neckline, making it ideal for both intimate celebrations and grand occasions.Includes: Necklace, matching earrings, maang tikka.",
     "shortDescription": "A graceful blend of mint enamel and ruby-toned drops, this elegant necklace set echoes the charm of royal artistry.",
     "images": [
-      "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1512540315028-2c1a6497da04?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2204-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2204-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -853,9 +834,8 @@ export const PRODUCTS: Product[] = [
     "description": "The Neelaraani Aadya set is a graceful harmony of soft aquamarine and deep glacier-blue stones, beautifully layered with glinting kundan drops. This design flows like a river of elegance, crowned with tiny maroon bead tassels that add a delicate contrast. The choker embraces the neck with a poised silhouette, while the matching earrings echo the same serene charm — a look that is both tranquil and majestic.Includes: Necklace, matching earrings.",
     "shortDescription": "A divine cascade of aqua and blue-hued stones, this regal choker evokes the calm grandeur of royal waters.",
     "images": [
-      "https://images.unsplash.com/photo-1512540315028-2c1a6497da04?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1598560917505-59a3ad559071?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1561828995-aa79a2db86dd?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2195-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2195-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -897,9 +877,8 @@ export const PRODUCTS: Product[] = [
     "description": "The Ruhika Sutra set is a whisper of heritage — featuring a slim choker strung with deep red and golden beads, bordered with a soft antique finish. Light yet captivating, the design offers just the right touch of tradition for modern occasions. Paired with petite dome-style earrings, this set is perfect for intimate functions or layered festive looks.Includes: Choker, matching earrings.",
     "shortDescription": "A delicate crimson-beaded choker set in antique tones, blending grace with understated allure.",
     "images": [
-      "https://images.unsplash.com/photo-1561828995-aa79a2db86dd?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2190-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2190-scaled.jpg"
     ],
     "tags": [
       "Choker Set",
@@ -942,9 +921,8 @@ export const PRODUCTS: Product[] = [
     "description": "The Devira Ashmika set is a portrait of regal restraint — composed of soft grey pearls woven in graceful rows, anchored by vintage-style floral connectors in antique gold. Each drop pendant blooms with a gleaming teardrop centre, framed by ornate filigree. The matching earrings and maang tikka mirror this poetic design, perfect for moments that call for quiet magnificence.Includes: Choker, matching earrings, maang tikka.",
     "shortDescription": "A majestic choker set strung with silken grey pearls and intricate floral medallions, crafted for timeless grandeur.",
     "images": [
-      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2183-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2183-scaled.jpg"
     ],
     "tags": [
       "Choker Set"
@@ -986,9 +964,8 @@ export const PRODUCTS: Product[] = [
     "description": "The Saanvika Veni set is steeped in vintage artistry, featuring a grand choker with layered design elements and delicate ivory-hued bead drops. The floral and peacock-inspired motifs flow seamlessly into matching earrings and an ornate maang tikka, perfect for traditional celebrations or bridal looks rooted in heritage.Includes: Choker, matching earrings, maang tikka.",
     "shortDescription": "An antique-finish choker set adorned with intricate motifs and soft ivory pearls, echoing timeless temple grace.",
     "images": [
-      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2175-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2175-scaled.jpg"
     ],
     "tags": [
       "Choker Set"
@@ -1029,9 +1006,8 @@ export const PRODUCTS: Product[] = [
     "description": "The Bhavaniya choker celebrates opulence with its architectural antique gold base and cascading layers of burnt orange beads, accented with golden drops. The dramatic silhouette is paired with statement earrings and a long maang tikka, making it a powerful choice for brides or festive occasions steeped in tradition.Includes: Choker, matching earrings, maang tikka.",
     "shortDescription": "A striking choker set with coral-toned beads and antique gold detailing, rich with traditional character.",
     "images": [
-      "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2165-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2165-scaled.jpg"
     ],
     "tags": [
       "Choker Set"
@@ -1073,9 +1049,8 @@ export const PRODUCTS: Product[] = [
     "description": "The Kanakavalli necklace set exudes timeless refinement with its rows of teardrop kundan set in antique gold tones. The smooth golden pearls add warmth and softness, creating a look that is both graceful and dignified. Lightweight yet striking, it&#8217;s an ideal choice for intimate occasions or layered bridal looks.Includes: Necklace, matching earrings.",
     "shortDescription": "A graceful kundan necklace framed with soft golden pearls, offering a radiant yet understated charm.",
     "images": [
-      "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1535632787350-4e68ef0ac584?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2159-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2159-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -1116,9 +1091,8 @@ export const PRODUCTS: Product[] = [
     "description": "The Agnikaasya set is a tribute to regal geometry — a dramatic play of triangular and square motifs, each edged in deep maroon enamel and set with reflective kundan. Dangling maroon beads lend striking depth, while the long maang tikka and matching earrings bring harmony to the set. A powerful design perfect for bold, traditional statements.Includes: Necklace, matching earrings, maang tikka.",
     "shortDescription": "A richly structured necklace set in maroon and antique gold, adorned with angular kundan work and bold garnet-hued beads.",
     "images": [
-      "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2149-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2149-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -1159,9 +1133,8 @@ export const PRODUCTS: Product[] = [
     "description": "The Mehernavaz choker set is a captivating blend of grandeur and grace. The deep sapphire-blue oval stones form a striking contrast against the finely detailed kundan work, while the rows of golden beads and ivory pearls add fluidity and charm. With ornate craftsmanship and a bold silhouette, this set embodies timeless nobility — perfect for those who dress with presence.Includes: Choker, matching earrings, maang tikka.",
     "shortDescription": "A majestic gold-tone choker set with deep blue stones, adorned with intricate kundan work and delicate pearl hangings — regal and enchanting.",
     "images": [
-      "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1629224316810-9d8805b95e76?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2133-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2133-scaled.jpg"
     ],
     "tags": [
       "Choker Set"
@@ -1202,9 +1175,8 @@ export const PRODUCTS: Product[] = [
     "description": "Crafted with timeless elegance, this regal choker features a symmetrical arrangement of teardrop and oval kundan stones bordered in antique-finish gold tone. Deep ruby-red beads line the base, lending warmth and depth. The reverse side showcases delicate hand-painted meenakari motifs, adding a layer of heritage beauty. A refined piece for traditional ensembles or festive heirlooms.\n\nIncludes: Necklace and matching earrings.",
     "shortDescription": "A rich double-layered kundan choker with ruby-red bead detailing and intricate enamelled work on the reverse.",
     "images": [
-      "https://images.unsplash.com/photo-1629224316810-9d8805b95e76?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2125-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2125-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -1246,9 +1218,8 @@ export const PRODUCTS: Product[] = [
     "description": "This dazzling close-neck necklace features layered white stones set in an ornate design that captures both tradition and glamour. The detailed pattern with delicate drop accents offers graceful movement, while the long statement earrings and matching maang tikka lend a touch of timeless splendour.Includes: Close-neck necklace, earrings, and maang tikka.",
     "shortDescription": "A radiant silver-finish necklace set adorned with shimmering white stones in a regal silhouette.",
     "images": [
-      "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2115-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2115-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -1287,9 +1258,8 @@ export const PRODUCTS: Product[] = [
     "description": "Rich in traditional craftsmanship, this close-neck necklace features deep ruby-hued stones framed by latticed gold-tone patterns and a lavish bead fringe. The floral-inspired earrings mirror the intricate motifs, adding an elegant touch of heritage charm.Includes: Close-neck necklace and matching earrings.",
     "shortDescription": "A bold, intricately layered close-neck necklace with ruby accents and ornate detailing.",
     "images": [
-      "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1512540315028-2c1a6497da04?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1598560917505-59a3ad559071?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2105-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2105-scaled.jpg"
     ],
     "tags": [
       "Essential Items",
@@ -1331,9 +1301,8 @@ export const PRODUCTS: Product[] = [
     "description": "The Rudrani Set is an exquisite blend of tradition and grace, featuring deep red tear-drop stones nestled in a golden lattice. Accented with pearls and kundan-style detailing, the set includes a matching maang tikka and earrings, making it a perfect choice for festive occasions and intimate celebrations. A statement in refined opulence.",
     "shortDescription": "A captivating red and gold set, intricately crafted to grace the modern woman with timeless elegance.",
     "images": [
-      "https://images.unsplash.com/photo-1598560917505-59a3ad559071?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1561828995-aa79a2db86dd?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2093-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2093-scaled.jpg"
     ],
     "tags": [
       "Essential Items"
@@ -1374,9 +1343,8 @@ export const PRODUCTS: Product[] = [
     "description": "Designed with delicate precision, this close-neck necklace showcases a timeless layered pattern with fine gold-tone textures and bead edging. The matching round floral studs offer a touch of softness, making this set a versatile choice for both heritage and contemporary attire.Includes: Close-neck necklace and matching earrings. A graceful close-neck necklace adorned with petite bead accents and classic floral studs.",
     "shortDescription": "A graceful close-neck necklace adorned with petite bead accents and classic floral studs.",
     "images": [
-      "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2083-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2083-scaled.jpg"
     ],
     "tags": [
       "Essential Items",
@@ -1419,9 +1387,8 @@ export const PRODUCTS: Product[] = [
     "description": "This refined close-neck necklace features layered detailing with delicate beaded accents throughout. A subtle drop at the center enhances its classic silhouette, while the traditional-style earrings add perfect harmony. Lightweight and timeless, this piece effortlessly balances subtle charm with vintage richness.Includes: Close-neck necklace and matching earrings.",
     "shortDescription": "An elegant close-neck necklace with intricate beadwork and graceful antique tones.",
     "images": [
-      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2076-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2076-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -1463,9 +1430,8 @@ export const PRODUCTS: Product[] = [
     "description": "This close-neck necklace is crafted with a row of structured square panels, each featuring traditional embossed details and finished with ruby-toned droplets. The antique gold finish adds a sense of timeless depth, while the matching earrings mirror the central motif with elegance. A refined design that speaks of heritage with a modern edge.Includes: Close-neck necklace and matching earrings.",
     "shortDescription": "A bold, close-neck necklace with temple-style elements and ruby-hued accents.",
     "images": [
-      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2068-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2068-scaled.jpg"
     ],
     "tags": [
       "Essential Items"
@@ -1506,9 +1472,8 @@ export const PRODUCTS: Product[] = [
     "description": "Crafted with rows of softly sculpted floral motifs, this mid-length necklace is anchored by an elegant crescent-shaped pendant with intricate lattice work and a pearl drop. The antique finish and subtle gold tone bring an old-world richness, perfectly balanced with matching jhumka-style earrings. A versatile piece that pairs beautifully with both festive and bridal ensembles.Includes: Necklace and matching earrings.",
     "shortDescription": "A graceful floral necklace set with delicate detailing and timeless charm.",
     "images": [
-      "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1535632787350-4e68ef0ac584?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2058-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2058-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -1549,9 +1514,8 @@ export const PRODUCTS: Product[] = [
     "description": "Featuring intricately carved gold-toned motifs with a bold rectangular pendant, the Vaishnavi Haaram Set is strung with luxurious rows of pearls and highlighted with temple-style detailing. The structured design evokes the sanctity of South Indian tradition while remaining effortlessly graceful. Matching earrings complete the look with grandeur and poise.",
     "shortDescription": "A divine fusion of temple artistry and pearl elegance, this necklace set is steeped in regal heritage.",
     "images": [
-      "https://images.unsplash.com/photo-1535632787350-4e68ef0ac584?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2046-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2046-scaled.jpg"
     ],
     "tags": [
       "Essential Items"
@@ -1593,9 +1557,8 @@ export const PRODUCTS: Product[] = [
     "description": "A sweeping, full-coverage necklace designed with floral clusters and glimmering stones, finished with radiant golden bead drops. The design sits gracefully along the collarbone, creating a rich, layered look. Complete with matching earrings and an ornate maang tikka, this set adds unmistakable charm to any bridal ensemble.Includes: Necklace, pair of earrings, maang tikka",
     "shortDescription": "A grand floral necklace with golden bead detailing, crafted for timeless bridal elegance.",
     "images": [
-      "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2032-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2032-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -1634,9 +1597,8 @@ export const PRODUCTS: Product[] = [
     "description": "A tribute to the grandeur of temple jewellery, this necklace features intricately textured gold-toned beads leading to a striking pendant inspired by ancient South Indian deities. Embellished with ruby accents and delicate danglers, it captures the soul of traditional craftsmanship. Complete with matching earrings, this set is perfect for auspicious occasions and heirloom-style ensembles.",
     "shortDescription": "Drawing from South India&#8217;s regal legacy, the Kanchipuram Temple Necklace Set celebrates divine artistry with its bold pendant and traditional temple motifs.",
     "images": [
-      "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1629224316810-9d8805b95e76?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2015-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2015-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -1676,9 +1638,8 @@ export const PRODUCTS: Product[] = [
     "description": "This exquisite necklace set features layers of ruby-hued beads accented by a central pendant adorned with rich red stones and intricate gold filigree. The matching earrings and maang tikka mirror the same majestic craftsmanship, each finished with cascading bead drops that add a rhythmic grace. Perfect for weddings and grand occasions, this piece brings together opulence and tradition in a timeless ensemble.",
     "shortDescription": "Bold and regal, the Raktika Haar Set captures the essence of royal grandeur with deep crimson beads and ornate gold motifs, echoing the magnificence of Rajputana heritage.",
     "images": [
-      "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2006-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2006-scaled.jpg"
     ],
     "tags": [
       "Choker Set"
@@ -1719,9 +1680,8 @@ export const PRODUCTS: Product[] = [
     "description": "Inspired by the finesse of traditional craftsmanship, this necklace set features intricate floral elements that bloom along the neckline. The grand circular pendant, adorned with kundan-style stones and a lustrous pearl drop, captures the eye with its mandala-like harmony. The matching jhumkis echo this floral charm, bringing the whole set together with poised elegance. Ideal for festive and ceremonial occasions, this piece radiates the spirit of Indian heritage with every detail.",
     "shortDescription": "A graceful expression of floral artistry, the Amara Phool necklace set celebrates the charm of temple motifs and delicate pearls in a timeless golden palette.",
     "images": [
-      "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1512540315028-2c1a6497da04?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1994-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1994-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -1762,9 +1722,8 @@ export const PRODUCTS: Product[] = [
     "description": "The Kanika Gulbandh set draws from the subtle charm of heirloom florals, featuring a structured necklace with circular kundan-style stones woven into delicate petal formations. A single drop pendant rests at the centre, adding softness and movement. The earrings echo the same twin-bloom motif, offering a complete look ideal for intimate weddings, pujas, or festive evenings.\n\nIncludes:Floral kundan-style necklace with gold bead pendantCoordinated dual-motif earrings with bead finish",
     "shortDescription": "A graceful kundan-inspired set with floral motifs and antique gold tones — timeless in elegance, rooted in heritage.",
     "images": [
-      "https://images.unsplash.com/photo-1512540315028-2c1a6497da04?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1598560917505-59a3ad559071?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1561828995-aa79a2db86dd?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1978-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1978-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -1805,9 +1764,8 @@ export const PRODUCTS: Product[] = [
     "description": "Rooted in traditional temple artistry, the Aabha Phool set features a beautifully structured choker adorned with green enamel petals, ruby-hued centrepieces, and glinting kundan-style stones. The lower edge is finished with soft golden beads, adding rhythm and richness to the design. Paired with fan-shaped earrings that mirror the same floral charm, this set brings cultural elegance alive with a festive glow.\n\nIncludes:Green enamel and ruby-tone choker with pearl edgingCoordinated floral earrings with hanging bead finish.",
     "shortDescription": "A radiant ensemble of meenakari greens, ruby tones, and mirror-polished stones — crafted in a blooming floral silhouette.",
     "images": [
-      "https://images.unsplash.com/photo-1561828995-aa79a2db86dd?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1963-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1963-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -1846,9 +1804,8 @@ export const PRODUCTS: Product[] = [
     "description": "The Chandrika set is a tribute to the enduring beauty of heritage craftsmanship. The broad choker is adorned with luminous kundan motifs, delicately bordered with creamy pearl drops that sway with movement. Designed to complement traditional silks and heirloom drapes, this set brings grace and grandeur together in perfect harmony.\n\nIncludes:Statement choker with kundan work and pearl edging Maang Tika,Matching earrings with pearl accents and mirrored detailing",
     "shortDescription": "An opulent blend of polished pearls and mirror-polished kundan, capturing the timeless charm of ceremonial elegance.",
     "images": [
-      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1948-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1948-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -1887,9 +1844,8 @@ export const PRODUCTS: Product[] = [
     "description": "Statement choker crafted with high-grade cubic zirconia and deep blue stones.Impeccable finishing gives it the richness of real diamonds.Paired with long drop earrings for a complete regal look.Ideal for receptions, cocktail nights, or festive occasions.",
     "shortDescription": "A radiant silver choker set adorned with deep sapphire stones and brilliant cubic zirconia — crafted to capture the elegance of timeless fine jewellery",
     "images": [
-      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1937-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1937-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -1928,9 +1884,8 @@ export const PRODUCTS: Product[] = [
     "description": "Inspired by the grand traditions of bridal adornment, Sitara Rang brings together the vibrance of ruby tones, soft mint enameling, and the brilliance of classic kundan-style elements. The choker features intricate filigree vines layered with green enamel accents, crowned with deep red beads that catch the light with every movement.\n\nThe jhumka-style earrings and matching maang tikka echo the same grandeur, offering a cohesive and richly detailed look. Designed for the bride who carries tradition like a crown, this set embodies festivity and grace.\n\nIncludes:\n\n\n\nEmbellished choker with green enamel detailing and ruby-hued drops\n\n\n\nJhumka earrings with filigree dome and red bead finish\n\n\n\nCoordinating maang tikka with pear-cut embellishments and signature motif\n\n\n\nWear it for the rituals, wear it for the moment—and let the colours tell your story.",
     "shortDescription": "A radiant blend of ruby red and antique green, Sitara Rang is a statement of royalty with a whisper of old-world charm.",
     "images": [
-      "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1912-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1912-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -1969,9 +1924,8 @@ export const PRODUCTS: Product[] = [
     "description": "Rajsi Netra by KUVERAS is a tribute to royal Indian heritage—bold, beautiful, and steeped in timeless grace. This ornate choker is adorned with intricate floral motifs and delicate meshwork, cascading into pearl droplets that sway with every step.\n\nEach piece in the set is crafted to resemble the fine artistry of heirloom gold jewellery—luxurious in design, light in wear. Perfect for the modern bride with a love for tradition.\n\nIncludes:\n\n\n\nA statement choker with floral filigree and pearl hangings\n\n\n\nCoordinated long earrings that echo the choker’s design\n\n\n\nA matching maang tikka to complete your bridal glow\n\n\n\nLet Rajsi Netra be the crown jewel of your wedding day—and a story you wear forever",
     "shortDescription": "A luxurious jewellery set with antique gold finish and real-look detailing—Rajsi Netra brings royal charm to modern elegance.",
     "images": [
-      "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1535632787350-4e68ef0ac584?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1897-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1897-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -2010,9 +1964,8 @@ export const PRODUCTS: Product[] = [
     "description": "The SwarnSaaz Jewellery Set brings to life the timeless grandeur of Indian heritage. Inspired by royal courts and sacred rituals, this exquisite ensemble is a harmony of kundan artistry, delicate pearl drops, and rhythmic geometry. Each element is designed to capture tradition in motion — like the twirl of a lehenga or the beat of a dhol.\n\nWhether you&#8217;re dressing for a wedding celebration or an occasion of deep cultural significance, the SwarnSaaz Jewellery Set is not just an accessory — it is an heirloom of emotion, poetry, and pride. A piece that speaks without words and shines with purpose.1",
     "shortDescription": "An echo of regal charm, the SwarnSaaz Jewellery Set is crafted in gold-toned kundan brilliance — worn not just to be seen, but to be remembered.",
     "images": [
-      "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1867-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1867-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -2051,9 +2004,8 @@ export const PRODUCTS: Product[] = [
     "description": "A statement piece for special occasions, this set blends soft pastels with intricate enamel work and mirror-polished stones. The pink floral motifs and detailed meenakari add a refreshing pop, while the dangling beads bring movement and charm to the look.\n\nIncludes: Necklace, Earrings, and Maang Tikka",
     "shortDescription": "Evoking the charm of royal heirlooms, this set features intricate meenakari, kundan-style stones, and timeless detailing for the Bride who honours tradition with grace.",
     "images": [
-      "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1629224316810-9d8805b95e76?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1853-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1853-scaled.jpg"
     ],
     "tags": [
       "Jewellery Set"
@@ -2094,9 +2046,8 @@ export const PRODUCTS: Product[] = [
     "description": "A celebration of heritage and craftsmanship &#8211; this set features intricate floral motifs, enamel details, and classic pearl drops. Timeless gold tones meet vibrant green and red accents, making it a perfect pick for the bride who cherishes tradition with grace.",
     "shortDescription": "A heritage-inspired set with floral charm and intricate detailing.Perfect for weddings, who want tradition with a bold touch.",
     "images": [
-      "https://images.unsplash.com/photo-1629224316810-9d8805b95e76?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1824-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1824-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -2135,9 +2086,8 @@ export const PRODUCTS: Product[] = [
     "description": "Grace meets grandeur in the Rosé Elegance CZ Set. Adorned with shimmering American Diamonds and soft blush gemstones, this exquisite choker set, complete with matching earrings and a delicate maang tikka, embodies sophistication with a modern charm. A perfect statement piece for those who love to shine effortlessly.",
     "shortDescription": "Grace meets grandeur in the Rosé Elegance CZ Set. Adorned with radiant CZ diamonds and blush gemstones, this choker set with earrings and a maang tikka adds effortless charm to every celebration",
     "images": [
-      "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?auto=format&fit=crop&w=800&q=80"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1809-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1809-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
