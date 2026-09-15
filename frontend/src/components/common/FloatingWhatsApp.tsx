@@ -2,7 +2,7 @@ import React from 'react';
 import { MessageCircle } from 'lucide-react';
 
 export const FloatingWhatsApp: React.FC = () => {
-  const whatsappUrl = `https://wa.me/919876543210?text=${encodeURIComponent(
+  const whatsappUrl = `https://wa.me/919910204680?text=${encodeURIComponent(
     'Hi Kuveras! I am looking for luxury Indian jewellery rental & custom bridal consultations. Could you please assist me?'
   )}`;
 

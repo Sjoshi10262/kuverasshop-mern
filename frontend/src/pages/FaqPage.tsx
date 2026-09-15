@@ -56,7 +56,7 @@ const ALL_FAQS: FaqItem[] = [
   {
     id: 'faq-10',
     question: 'How can I contact KUVERAS?',
-    answer: 'Our luxury customer concierge is available 7 days a week (9 AM – 9 PM IST) via WhatsApp at +91 98765 43210 or via email at support@kuveras.com.',
+    answer: 'Our luxury customer concierge is available 7 days a week (9 AM – 9 PM IST) via WhatsApp at +91 99102 04680 or via email at kuverasoverseas@gmail.com.',
   },
 ];
 
@@ -141,7 +141,7 @@ export const FaqPage: React.FC = () => {
           </p>
           <div className="pt-2">
             <a
-              href="https://wa.me/919876543210?text=Hi%20Kuveras!%20I%20have%20a%20question."
+              href="https://wa.me/919910204680?text=Hi%20Kuveras!%20I%20have%20a%20question."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2.5 px-7 py-3 bg-[#0B5D3B] hover:bg-[#075235] text-white text-xs font-sans font-semibold uppercase tracking-[0.2em] transition-colors cursor-pointer"

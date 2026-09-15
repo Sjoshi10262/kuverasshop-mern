@@ -122,7 +122,7 @@ export const RentInfoPage: React.FC = () => {
           </p>
 
           <a
-            href="https://wa.me/919876543210?text=Hi%20Kuveras!%20I%20want%20to%20inquire%20about%20jewellery%20rental%20availability."
+            href="https://wa.me/919910204680?text=Hi%20Kuveras!%20I%20want%20to%20inquire%20about%20jewellery%20rental%20availability."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-4 bg-[#25D366] hover:bg-[#20ba5a] text-white text-xs font-bold uppercase tracking-widest transition-colors shadow-lg"
