@@ -30,7 +30,8 @@ export const PRODUCTS: Product[] = [
       "Care Instructions": "Keep away from moisture, perfume, and direct spray.",
       "Origin": "Handcrafted in India"
     },
-    "rentalPrice": 1199,
+    "rentalPrice": 1500,
+    "rentalPeriod": "1 day",
     "stock": 15,
     "featured": true,
     "bestseller": true,

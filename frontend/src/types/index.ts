@@ -16,6 +16,7 @@ export interface Product {
   tags: string[];
   specifications: Record<string, string>;
   rentalPrice: number;
+  rentalPeriod?: string;
   stock: number;
   featured?: boolean;
   bestseller?: boolean;

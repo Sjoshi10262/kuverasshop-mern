@@ -47,7 +47,14 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
     setQuickViewProduct(product);
   };
 
-  const whatsappUrl = generateWhatsAppLink(product.name, product.salePrice, product.rentalPrice, 'rental');
+  const whatsappUrl = generateWhatsAppLink(
+    product.name,
+    product.salePrice,
+    product.rentalPrice,
+    'rental',
+    '919910204680',
+    product.rentalPeriod || '3 Days'
+  );
 
   return (
     <div
@@ -156,7 +163,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
             className="w-full py-2 bg-[#FFFDF8] border border-[#C89B3C] text-[#2B2723] hover:bg-[#C89B3C] hover:text-[#FFFFFF] text-[11px] font-bold uppercase tracking-wider transition-colors flex items-center justify-center gap-1.5 cursor-pointer"
           >
             <MessageCircle className="w-3.5 h-3.5" />
-            Rent Via WhatsApp ({formatINR(product.rentalPrice)})
+            Rent Via WhatsApp ({formatINR(product.rentalPrice)}{product.rentalPeriod ? `/${product.rentalPeriod}` : ''})
           </a>
         </div>
       </div>

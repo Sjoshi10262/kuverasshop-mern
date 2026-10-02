@@ -70,7 +70,9 @@ export const ProductDetailPage: React.FC = () => {
     product.name,
     product.salePrice,
     product.rentalPrice,
-    'rental'
+    'rental',
+    '919910204680',
+    product.rentalPeriod || '3 Days'
   );
 
   const relatedProducts = PRODUCTS.filter(
@@ -288,7 +290,7 @@ export const ProductDetailPage: React.FC = () => {
                 className="w-full py-3 border border-[#25D366] text-[#25D366] hover:bg-[#25D366] hover:text-white text-xs font-bold uppercase tracking-wider transition-colors flex items-center justify-center gap-2"
               >
                 <MessageCircle className="w-4 h-4" />
-                Rent Via WhatsApp ({formatINR(product.rentalPrice)}/3 Days)
+                Rent Via WhatsApp ({formatINR(product.rentalPrice)}/{product.rentalPeriod || '3 Days'})
               </a>
 
               {/* Insured Delivery Banner */}

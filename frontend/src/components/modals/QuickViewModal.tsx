@@ -61,7 +61,9 @@ export const QuickViewModal: React.FC = () => {
     quickViewProduct.name,
     quickViewProduct.salePrice,
     quickViewProduct.rentalPrice,
-    'rental'
+    'rental',
+    '919910204680',
+    quickViewProduct.rentalPeriod || '3 Days'
   );
 
   return (
@@ -203,7 +205,7 @@ export const QuickViewModal: React.FC = () => {
               className="w-full py-2.5 border border-[#25D366] text-[#25D366] hover:bg-[#25D366] hover:text-white text-xs font-semibold uppercase tracking-wider transition-colors flex items-center justify-center gap-2"
             >
               <MessageCircle className="w-4 h-4" />
-              Rent via WhatsApp ({formatINR(quickViewProduct.rentalPrice)}/3 Days)
+              Rent via WhatsApp ({formatINR(quickViewProduct.rentalPrice)}/{quickViewProduct.rentalPeriod || '3 Days'})
             </a>
 
             <button
