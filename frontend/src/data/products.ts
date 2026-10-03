@@ -17,7 +17,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "An intricate diamond-look collar set with layered marquise motifs and matching drop earrings.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2376-scaled-e1746799678318.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2376-scaled-e1746799678318.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2379-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2378-scaled-e1746799648799.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2373-scaled-e1746799575543.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2377-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -61,7 +64,11 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A brilliant diamond-look collar set with jhumka earrings and a regal, lotus-inspired maang tikka.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2391-scaled-e1746798958973.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2391-scaled-e1746798958973.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2385-scaled-e1746798900512.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2395-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2400-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2399-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2398-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -104,7 +111,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "An airy composition of silver and mint tones, designed for soft, radiant sophistication.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2416-scaled-e1746708501516.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2416-scaled-e1746708501516.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2421-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2422-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2417-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2418-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -147,7 +157,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "Delicate and striking, this rose-pink choker set captures the essence of refined grace.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2436-scaled-e1746707707253.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2436-scaled-e1746707707253.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2439-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2430-scaled-e1746707600173.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2438-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2440-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -190,7 +203,11 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "Delicate hues of blush and mint come together in this soft, radiant design inspired by evening starlight.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2443-scaled-e1746706011294.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2443-scaled-e1746706011294.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2442-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2446-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2441-scaled-e1746705969925.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2445-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2444-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -233,7 +250,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A radiant blend of crescent motifs and deep blue accents, this necklace echoes regal charm in every curve.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2449-scaled-e1746705546866.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2449-scaled-e1746705546866.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2448-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2453-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2451-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2450-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -276,7 +296,7 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A bold, gem-rich necklace in deep crimson tones, framed with shimmering white accents for a timeless statement.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2455-scaled-e1746704750695.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2455-scaled-e1746704750695.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2458-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -319,7 +339,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A radiant ruby-toned necklace set with glistening drops and floral accents in an antique-inspired finish.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2426-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2426-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2427-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2428-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2425-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2424-scaled-e1746704916868.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -362,7 +385,9 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A delicate pastel-toned necklace set with hints of mint green and soft rose gold accents.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2460-scaled-e1746704164202.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2460-scaled-e1746704164202.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2461-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2462-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2463-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -405,7 +430,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A radiant rose gold necklace with elegant square-cut elements and shimmering teardrop stones.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2470-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2470-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2473-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2472-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2471-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2469-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -447,7 +475,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A graceful silver-toned choker set with deep ruby red stones — refined, striking, and versatile.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2481-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2481-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2480-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2474-scaled-e1746703220353.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2482-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2479-scaled.jpg"
     ],
     "tags": [
       "Choker Set"
@@ -490,7 +521,12 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A regal kundan necklace set adorned with emerald-green drops and fine detailing that commands a presence.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2488-scaled-e1746534355806.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2488-scaled-e1746534355806.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2495-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2493-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2494-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2492-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2489-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/05/IMG_2497-scaled.jpg"
     ],
     "tags": [
       "kundan"
@@ -533,7 +569,7 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A resplendent multi-layered necklace woven with pearls, deep-hued stones, and ornate jhumkas — echoing the grandeur of royal tradition.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2268-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2268-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2272-scaled.jpg"
     ],
     "tags": [
       "Long Necklace Set",
@@ -577,7 +613,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A soft mauve beaded choker crowned with a floral kundan panel and blush-toned droplets.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2261-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2261-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2253-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2267-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2266-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2258-scaled.jpg"
     ],
     "tags": [
       "Choker Set"
@@ -620,7 +659,9 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A five-layer kundan necklace that sits beautifully as both choker and necklace.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2246-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2246-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2250-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2251-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2248-scaled.jpg"
     ],
     "tags": [
       "Choker Set",
@@ -664,7 +705,9 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A resplendent temple-style masterpiece with intricate motifs, antique gold finish, and lush green accents.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2234-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2234-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2230-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2239-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2233-scaled.jpg"
     ],
     "tags": [
       "Choker Set"
@@ -707,7 +750,12 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A striking Rajwadi ensemble with deep emerald tones, bold kundan work, and grand floral elements steeped in royal splendour.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2222-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2222-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2220-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2223-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2228-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2225-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2227-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2226-scaled.jpg"
     ],
     "tags": [
       "Long Necklace Set"
@@ -750,7 +798,9 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "An antique-inspired floral necklace with a captivating central pendant, glowing in soft gold tones and garnet accents.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2216-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2216-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2215-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2219-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2218-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -793,7 +843,11 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A graceful blend of mint enamel and ruby-toned drops, this elegant necklace set echoes the charm of royal artistry.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2204-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2204-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2201-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2213-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2210-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2207-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2209-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -836,7 +890,11 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A divine cascade of aqua and blue-hued stones, this regal choker evokes the calm grandeur of royal waters.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2195-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2195-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2200-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2197-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2195-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2194-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2193-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -879,7 +937,9 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A delicate crimson-beaded choker set in antique tones, blending grace with understated allure.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2190-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2190-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2188-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2191-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2189-scaled.jpg"
     ],
     "tags": [
       "Choker Set",
@@ -923,7 +983,11 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A majestic choker set strung with silken grey pearls and intricate floral medallions, crafted for timeless grandeur.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2183-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2183-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2182-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2184-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2186-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2187-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2185-scaled.jpg"
     ],
     "tags": [
       "Choker Set"
@@ -966,7 +1030,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "An antique-finish choker set adorned with intricate motifs and soft ivory pearls, echoing timeless temple grace.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2175-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2175-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2172-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2173-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2174-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2176-scaled.jpg"
     ],
     "tags": [
       "Choker Set"
@@ -1008,7 +1075,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A striking choker set with coral-toned beads and antique gold detailing, rich with traditional character.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2165-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2165-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2163-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2168-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2166-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2169-scaled.jpg"
     ],
     "tags": [
       "Choker Set"
@@ -1051,7 +1121,9 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A graceful kundan necklace framed with soft golden pearls, offering a radiant yet understated charm.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2159-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2159-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2154-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2162-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2158-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -1093,7 +1165,11 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A richly structured necklace set in maroon and antique gold, adorned with angular kundan work and bold garnet-hued beads.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2149-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2149-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2145-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2148-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2151-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2147-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2153-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -1135,7 +1211,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A majestic gold-tone choker set with deep blue stones, adorned with intricate kundan work and delicate pearl hangings — regal and enchanting.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2133-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2133-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2129-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2135-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2138-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2142-scaled.jpg"
     ],
     "tags": [
       "Choker Set"
@@ -1177,7 +1256,11 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A rich double-layered kundan choker with ruby-red bead detailing and intricate enamelled work on the reverse.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2125-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2125-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2122-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2126-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2124-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2123-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2128-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -1220,7 +1303,11 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A radiant silver-finish necklace set adorned with shimmering white stones in a regal silhouette.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2115-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2115-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2113-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2119-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2116-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2120-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2117-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -1260,7 +1347,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A bold, intricately layered close-neck necklace with ruby accents and ornate detailing.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2105-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2105-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2103-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2110-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2111-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2106-scaled.jpg"
     ],
     "tags": [
       "Essential Items",
@@ -1303,7 +1393,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A captivating red and gold set, intricately crafted to grace the modern woman with timeless elegance.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2093-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2093-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2099-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2101-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2095-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2096-scaled.jpg"
     ],
     "tags": [
       "Essential Items"
@@ -1345,7 +1438,8 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A graceful close-neck necklace adorned with petite bead accents and classic floral studs.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2083-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2083-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2085-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2086-scaled.jpg"
     ],
     "tags": [
       "Essential Items",
@@ -1389,7 +1483,9 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "An elegant close-neck necklace with intricate beadwork and graceful antique tones.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2076-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2076-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2075-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2078-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2080-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -1432,7 +1528,11 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A bold, close-neck necklace with temple-style elements and ruby-hued accents.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2068-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2068-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2067-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2069-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2070-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2071-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2072-scaled.jpg"
     ],
     "tags": [
       "Essential Items"
@@ -1474,7 +1574,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A graceful floral necklace set with delicate detailing and timeless charm.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2058-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2058-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2053-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2057-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2059-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2062-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -1516,7 +1619,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A divine fusion of temple artistry and pearl elegance, this necklace set is steeped in regal heritage.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2046-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2046-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2042-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2044-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2047-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2049-scaled.jpg"
     ],
     "tags": [
       "Essential Items"
@@ -1559,7 +1665,11 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A grand floral necklace with golden bead detailing, crafted for timeless bridal elegance.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2032-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2032-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2031-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2033-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2034-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2035-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2037-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -1599,7 +1709,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "Drawing from South India&#8217;s regal legacy, the Kanchipuram Temple Necklace Set celebrates divine artistry with its bold pendant and traditional temple motifs.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2015-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2015-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2016-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2018-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2025-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2023-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -1640,7 +1753,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "Bold and regal, the Raktika Haar Set captures the essence of royal grandeur with deep crimson beads and ornate gold motifs, echoing the magnificence of Rajputana heritage.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2006-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2006-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2001-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2004-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2010-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_2012-scaled.jpg"
     ],
     "tags": [
       "Choker Set"
@@ -1682,7 +1798,11 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A graceful expression of floral artistry, the Amara Phool necklace set celebrates the charm of temple motifs and delicate pearls in a timeless golden palette.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1994-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1994-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1989-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1993-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1985-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1990-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1999-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -1724,7 +1844,8 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A graceful kundan-inspired set with floral motifs and antique gold tones — timeless in elegance, rooted in heritage.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1978-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1978-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1977-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1985-scaled.jpg"
     ],
     "tags": [
       "Necklace Set"
@@ -1766,7 +1887,11 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A radiant ensemble of meenakari greens, ruby tones, and mirror-polished stones — crafted in a blooming floral silhouette.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1963-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1963-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1972-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1966-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1955-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1960-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1962-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -1806,7 +1931,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "An opulent blend of polished pearls and mirror-polished kundan, capturing the timeless charm of ceremonial elegance.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1948-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1948-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1949-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1952-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1951-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1944-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -1846,7 +1974,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A radiant silver choker set adorned with deep sapphire stones and brilliant cubic zirconia — crafted to capture the elegance of timeless fine jewellery",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1937-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1937-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1926-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1932-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1925-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1935-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -1886,7 +2017,10 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A radiant blend of ruby red and antique green, Sitara Rang is a statement of royalty with a whisper of old-world charm.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1912-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1912-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1910-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1914-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1921-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1916-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -1926,7 +2060,11 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A luxurious jewellery set with antique gold finish and real-look detailing—Rajsi Netra brings royal charm to modern elegance.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1897-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1897-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1894-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1901-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1903-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1895-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1886-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -1966,7 +2104,13 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "An echo of regal charm, the SwarnSaaz Jewellery Set is crafted in gold-toned kundan brilliance — worn not just to be seen, but to be remembered.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1867-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1867-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1882-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1879-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1871-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1881-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1873-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1869-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1885-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -2006,7 +2150,12 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "Evoking the charm of royal heirlooms, this set features intricate meenakari, kundan-style stones, and timeless detailing for the Bride who honours tradition with grace.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1853-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1853-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1852-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1848-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1859-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1858-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1855-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1854-scaled.jpg"
     ],
     "tags": [
       "Jewellery Set"
@@ -2048,7 +2197,11 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "A heritage-inspired set with floral charm and intricate detailing.Perfect for weddings, who want tradition with a bold touch.",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1824-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1824-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1836-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1843-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1823-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1829-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1826-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
@@ -2088,7 +2241,11 @@ export const PRODUCTS: Product[] = [
     "shortDescription": "Grace meets grandeur in the Rosé Elegance CZ Set. Adorned with radiant CZ diamonds and blush gemstones, this choker set with earrings and a maang tikka adds effortless charm to every celebration",
     "images": [
           "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1809-scaled.jpg",
-          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1809-scaled.jpg"
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1816-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1818-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1810-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1805-scaled.jpg",
+          "https://kuverasshop-com-633906.hostingersite.com/wp-content/uploads/2025/04/IMG_1822-scaled.jpg"
     ],
     "tags": [],
     "specifications": {
