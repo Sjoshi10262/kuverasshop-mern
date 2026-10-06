@@ -23,6 +23,9 @@ if (fs.existsSync(frontendDir)) {
 
   if (fs.existsSync(srcDist)) {
     console.log('🚚 Copying compiled frontend/dist to backend/dist...');
+    if (fs.existsSync(targetDist)) {
+      fs.rmSync(targetDist, { recursive: true, force: true });
+    }
     fs.cpSync(srcDist, targetDist, { recursive: true, force: true });
     console.log('✅ Frontend assets successfully bundled into backend/dist!');
   } else {
