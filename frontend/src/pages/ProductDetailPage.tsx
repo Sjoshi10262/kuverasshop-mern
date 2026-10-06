@@ -33,10 +33,25 @@ export const ProductDetailPage: React.FC = () => {
   const [quantity, setQuantity] = useState(1);
 
   useEffect(() => {
-    window.scrollTo(0, 0);
+    if (window.location.hash === '#product-information' || window.location.hash === '#rental-terms') {
+      setTimeout(() => {
+        const el = document.getElementById('product-information');
+        if (el) el.scrollIntoView({ behavior: 'smooth' });
+      }, 100);
+    } else {
+      window.scrollTo(0, 0);
+    }
     setSelectedImageIndex(0);
     setQuantity(1);
   }, [slug]);
+
+  const handleScrollToProductInfo = (e: React.MouseEvent) => {
+    e.preventDefault();
+    const el = document.getElementById('product-information');
+    if (el) {
+      el.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
 
   const isWishlisted = isInWishlist(product.id);
 
@@ -82,10 +97,20 @@ export const ProductDetailPage: React.FC = () => {
   const accordionItems = [
     {
       id: 'specifications',
-      title: 'Jewellery Specifications & Craftsmanship',
+      title: 'Product Information & Jewellery Craftsmanship',
       content: (
-        <div className="space-y-2">
-          <p className="mb-3">{product.description}</p>
+        <div className="space-y-3 font-sans">
+          <p className="text-[#8B0000] font-serif text-sm font-semibold tracking-wide">
+            "KUVERAS — Jewellery that Carries a Legacy"
+          </p>
+          <p className="text-xs sm:text-sm text-[#7A736E] leading-relaxed">
+            {product.description}
+          </p>
+          <div className="p-3 bg-[#FAF8F5] border border-[#E8E2D9] text-xs text-[#111111] space-y-1.5">
+            <p><strong>Handcrafted Heritage Base:</strong> Premium copper & brass alloy finished with 22K Gold Tone Polish (Artificial Jewellery Craftsmanship).</p>
+            <p><strong>Gemstone & Stone Setting:</strong> High-grade uncut Kundan / Polki, AAA cubic zirconia crystals, freshwater pearls, and authentic meenakari enameling.</p>
+            <p><strong>Delivery Coverage:</strong> Express doorstep delivery across Delhi NCR and insured nationwide courier dispatch.</p>
+          </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 bg-[#FAF8F5] p-3 border border-[#E8E2D9]">
             {Object.entries(product.specifications).map(([key, val]) => (
               <div key={key} className="text-xs">
@@ -98,11 +123,31 @@ export const ProductDetailPage: React.FC = () => {
       ),
     },
     {
+      id: 'rental',
+      title: 'WhatsApp Rental Terms & Booking Procedure',
+      content: (
+        <div className="space-y-2 text-xs sm:text-sm text-[#7A736E] leading-relaxed font-sans">
+          <p>
+            <strong>Standard Rental Window:</strong> 3 full calendar days (Day 1: Doorstep Delivery across Delhi, Day 2: Occasion, Day 3: Scheduled Pickup).
+          </p>
+          <p>
+            <strong>Security Deposit:</strong> Refundable security deposit is collected prior to dispatch and released within 24-48 hours after return inspection.
+          </p>
+          <p>
+            <strong>Hygiene & Protection:</strong> Every set undergoes 100% medical-grade UV-C light sterilization and ultrasonic cleaning prior to packaging in tamper-proof velvet boxes.
+          </p>
+          <p>
+            <strong>WhatsApp Booking:</strong> Click "Rent Via WhatsApp" to check live date availability with our Delhi concierge.
+          </p>
+        </div>
+      ),
+    },
+    {
       id: 'shipping',
-      title: 'Insured Shipping & Delivery Timelines',
+      title: 'Insured Shipping & Delivery Timelines (Delhi & Pan-India)',
       content: (
         <p>
-          All orders above ₹3,000 qualify for <strong>FREE Insured Express Shipping</strong> across India via Bluedart/Delhivery. Standard dispatch within 24-48 hours with live tracking code. International shipping is calculated at checkout.
+          Express delivery across Delhi. All orders above <strong>₹3,000</strong> qualify for <strong>FREE Insured Express Shipping</strong> across India via Bluedart/Delhivery. Standard dispatch within 24-48 hours with live tracking code.
         </p>
       ),
     },
@@ -112,15 +157,6 @@ export const ProductDetailPage: React.FC = () => {
       content: (
         <p>
           To maintain the brilliant gold luster and uncut Kundan stone setting, store in the provided soft microfiber pouch away from direct humidity, perfumes, hairsprays, and harsh chemicals. Clean gently with a soft dry cotton cloth after wearing.
-        </p>
-      ),
-    },
-    {
-      id: 'rental',
-      title: 'WhatsApp Rental Terms',
-      content: (
-        <p>
-          Rental period spans 3 full calendar days. A refundable security deposit is collected prior to dispatch. Jewellery is sanitized with UV-C technology before every shipment. Return pickup is arranged automatically by Kuveras.
         </p>
       ),
     },
@@ -293,14 +329,22 @@ export const ProductDetailPage: React.FC = () => {
                 Rent Via WhatsApp ({formatINR(product.rentalPrice)}/{product.rentalPeriod || '3 Days'})
               </a>
 
+              <a
+                href="#product-information"
+                onClick={handleScrollToProductInfo}
+                className="w-full text-center text-xs font-semibold text-[#8B0000] hover:text-[#C5A059] underline tracking-wider py-1 block transition-colors cursor-pointer"
+              >
+                View Rental Terms & Product Information Section ↓
+              </a>
+
               {/* Insured Delivery Banner */}
               <div className="mt-4 p-3 bg-[#FAF8F5] border border-[#E8E2D9] text-xs text-[#7A736E] space-y-1.5 font-sans">
                 <div className="flex items-center gap-2 text-[#111111] font-semibold">
                   <Truck className="w-4 h-4 text-[#D4AF37]" />
-                  <span>Insured Express Courier Dispatch</span>
+                  <span>Doorstep Rental Delivery Across Delhi & Pan-India</span>
                 </div>
                 <p className="text-[11px] text-[#7A736E]">
-                  Delivered in tamper-proof jewelry box with authenticity certificate.
+                  Delivered in tamper-proof jewelry box with authenticity certificate and 100% UV-C sanitization.
                 </p>
               </div>
             </div>
@@ -308,11 +352,12 @@ export const ProductDetailPage: React.FC = () => {
         </div>
 
         {/* Specifications Accordion Disclosures */}
-        <div className="bg-[#FFFDF9] border border-[#E8E2D9] p-6 sm:p-10 shadow-sm mb-16">
-          <h2 className="font-serif text-2xl font-bold text-[#111111] mb-6 border-b border-[#E8E2D9] pb-3">
-            Product & Rental Disclosures
+        <div id="product-information" className="bg-[#FFFDF9] border border-[#E8E2D9] p-6 sm:p-10 shadow-sm mb-16 scroll-mt-24">
+          <h2 className="font-serif text-2xl font-bold text-[#111111] mb-6 border-b border-[#E8E2D9] pb-3 flex items-center justify-between">
+            <span>Product Information & Rental Terms</span>
+            <span className="text-xs font-sans text-[#C5A059] font-normal tracking-wide">Jewellery that Carries a Legacy</span>
           </h2>
-          <Accordion items={accordionItems} defaultOpenId="specifications" />
+          <Accordion items={accordionItems} defaultOpenId="specifications" allowMultiple={true} />
         </div>
 
         {/* Related Products Section */}

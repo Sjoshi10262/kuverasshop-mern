@@ -13,19 +13,10 @@ interface Store {
 
 const STORES_CONFIG: Store[] = [
   {
-    id: 's1',
-    city: 'JAIPUR',
-    title: 'Jaipur Heritage Atelier',
-    address: '14 Johari Bazaar, Hawa Mahal Road, Jaipur',
-    phone: '+91 88104 61628',
-    whatsapp: '919910204680',
-    hours: '10:30 AM – 8:30 PM (Mon–Sun)',
-  },
-  {
     id: 's2',
     city: 'NEW DELHI',
-    title: 'South Extension Luxury Suite',
-    address: 'E-18 South Extension Part II, New Delhi',
+    title: 'South Extension Luxury Suite & Delivery Hub',
+    address: 'E-18 South Extension Part II, New Delhi (Doorstep Delivery Across Delhi)',
     phone: '+91 88104 61628',
     whatsapp: '919910204680',
     hours: '11:00 AM – 8:00 PM (Tue–Sun)',
@@ -88,10 +79,10 @@ export const StoreLocatorModal: React.FC<StoreLocatorModalProps> = ({
         <div className="px-6 py-5 border-b border-[#EEEAE4] flex items-center justify-between bg-[#FFFDF8]">
           <div>
             <span className="text-[10px] uppercase tracking-[0.2em] font-medium text-[#C89B3C] block">
-              Boutique Finder
+              Boutique Finder & Delivery Concierge
             </span>
             <h3 id="store-locator-title" className="font-serif text-2xl font-normal text-[#2B2723]">
-              Find a Store
+              Stores & Delivery Across Delhi
             </h3>
           </div>
           <button

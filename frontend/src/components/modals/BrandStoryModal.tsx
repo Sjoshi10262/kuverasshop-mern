@@ -36,7 +36,7 @@ export const BrandStoryModal: React.FC = () => {
               Where Heritage Becomes Eternal Elegance
             </h2>
             <span className="text-xs uppercase tracking-[0.25em] text-[#C5A059] font-medium block">
-              The Soul of Kuveras Fine Jewellery
+              Jewellery that Carries a Legacy — The Soul of Kuveras Fine Jewellery
             </span>
           </div>
 
@@ -48,7 +48,7 @@ export const BrandStoryModal: React.FC = () => {
               Rooted in our great Indian heritage and elevated by contemporary fashion aesthetics, our collections are more than mere adornments — they are expressions of your soul, your story, and your royal shine.
             </p>
             <p>
-              Our name is a humble tribute to <strong>Lord Kubera</strong>, the divine guardian of wealth, abundance, and prosperity in Vedic tradition. At the very heart of Kuveras is <strong>Kamini</strong> — a name, a mother, and our guiding light whose reverence for traditional Jaipuri Kundan craftsmanship ignited our journey.
+              Our name is a humble tribute to <strong>Lord Kubera</strong>, the divine guardian of wealth, abundance, and prosperity in Vedic tradition. At the very heart of Kuveras is <strong>Kamini</strong> — a name, a mother, and our guiding light whose reverence for traditional Kundan craftsmanship ignited our journey.
             </p>
             <p>
               Every uncut Kundan polki, every hand-strung South Sea pearl, and every faceted Kemp ruby is ethically selected by our master karigars (artisans) who carry four generations of goldsmithing expertise. Whether you wear our creations on your wedding morning or rent a showstopping Rani Haar set for a sangeet night, Kuveras promises heirloom quality that stands test of time.

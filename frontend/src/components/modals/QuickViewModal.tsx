@@ -54,7 +54,7 @@ export const QuickViewModal: React.FC = () => {
   const handleViewFullProduct = () => {
     const slug = quickViewProduct.slug;
     setQuickViewProduct(null);
-    navigate(`/product/${slug}`);
+    navigate(`/product/${slug}#product-information`);
   };
 
   const whatsappUrl = generateWhatsAppLink(

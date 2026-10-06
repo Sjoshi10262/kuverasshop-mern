@@ -18,7 +18,7 @@ const FEATURED_COLLECTIONS = [
     title: 'Mughal Polki & Jadau',
     category: 'Kundan',
     image: 'https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=600&q=80',
-    desc: 'Uncut gemstone polki sets lined with Jaipur pink enameling and freshwater pearls.',
+    desc: 'Uncut gemstone polki sets lined with royal pink meenakari enameling and freshwater pearls.',
   },
   {
     title: 'Temple Gold Nakshi',

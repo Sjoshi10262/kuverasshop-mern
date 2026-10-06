@@ -72,16 +72,16 @@ export const RentInfoPage: React.FC = () => {
         <div className="text-center max-w-3xl mx-auto space-y-4 mb-16">
           <div className="inline-flex items-center gap-2 px-3 py-1 bg-[#8B0000]/10 border border-[#8B0000]/30 text-[#8B0000] text-xs font-bold uppercase tracking-widest">
             <ShieldCheck className="w-4 h-4" />
-            <span>Luxury Jewellery Rental Protocol</span>
+            <span>Jewellery that Carries a Legacy</span>
           </div>
 
           <h1 className="font-serif text-4xl sm:text-5xl font-bold text-[#111111] leading-tight">
             Rent Royal Indian Jewellery <br />
-            <span className="italic font-normal text-[#C5A059]">For Your Special Occasions</span>
+            <span className="italic font-normal text-[#C5A059]">Doorstep Delivery Across Delhi & Pan-India</span>
           </h1>
 
           <p className="text-sm text-[#7A736E] leading-relaxed font-sans">
-            Adorn heirloom Kundan, Rajwadi, and Bridal sets at a fraction of retail prices. Seamless WhatsApp booking, doorstep delivery, and 100% medical-grade UV-C sanitization.
+            Adorn heirloom Kundan, Rajwadi, and Bridal sets at a fraction of retail prices. Seamless WhatsApp booking, doorstep delivery across Delhi NCR, and 100% medical-grade UV-C sanitization.
           </p>
         </div>
 
@@ -116,13 +116,13 @@ export const RentInfoPage: React.FC = () => {
         {/* WhatsApp CTA Card */}
         <div className="bg-[#111111] text-white p-8 sm:p-12 border border-[#D4AF37]/50 shadow-2xl mb-20 text-center max-w-4xl mx-auto space-y-6">
           <MessageCircle className="w-12 h-12 text-[#25D366] mx-auto animate-pulse" />
-          <h2 className="font-serif text-3xl font-bold">Have Questions About Rental Availability?</h2>
+          <h2 className="font-serif text-3xl font-bold">Have Questions About Delivery Across Delhi or Rental Dates?</h2>
           <p className="text-xs sm:text-sm text-[#7A736E] max-w-lg mx-auto leading-relaxed">
-            Chat directly with Kuveras Jewellery Concierge on WhatsApp for instant date availability checks and custom bridal styling support.
+            Chat directly with Kuveras Jewellery Concierge on WhatsApp for instant date availability checks, delivery across Delhi NCR, and custom bridal styling support.
           </p>
 
           <a
-            href="https://wa.me/919910204680?text=Hi%20Kuveras!%20I%20want%20to%20inquire%20about%20jewellery%20rental%20availability."
+            href="https://wa.me/919910204680?text=Hi%20Kuveras!%20I%20want%20to%20inquire%20about%20jewellery%20rental%20with%20doorstep%20delivery%20across%20Delhi."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-4 bg-[#25D366] hover:bg-[#20ba5a] text-white text-xs font-bold uppercase tracking-widest transition-colors shadow-lg"
@@ -132,10 +132,13 @@ export const RentInfoPage: React.FC = () => {
           </a>
         </div>
 
-        {/* Rental FAQs */}
-        <div className="bg-[#FFFDF9] border border-[#E8E2D9] p-8 max-w-4xl mx-auto shadow-sm">
-          <h2 className="font-serif text-2xl font-bold text-[#111111] mb-6">Rental FAQ's</h2>
-          <Accordion items={rentalFaqs} />
+        {/* Product Information & Rental Terms section */}
+        <div id="product-information" className="bg-[#FFFDF9] border border-[#E8E2D9] p-8 max-w-4xl mx-auto shadow-sm scroll-mt-24">
+          <div className="border-b border-[#E8E2D9] pb-4 mb-6 flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+            <h2 className="font-serif text-2xl font-bold text-[#111111]">Product Information & Rental Terms</h2>
+            <span className="text-xs text-[#8B0000] font-semibold">Doorstep Delivery Across Delhi & Pan-India</span>
+          </div>
+          <Accordion items={rentalFaqs} defaultOpenId="r1" allowMultiple={true} />
         </div>
       </div>
     </div>

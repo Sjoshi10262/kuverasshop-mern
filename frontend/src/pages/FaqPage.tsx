@@ -11,7 +11,7 @@ const ALL_FAQS: FaqItem[] = [
   {
     id: 'faq-1',
     question: 'What materials are used in KUVERAS jewellery?',
-    answer: 'KUVERAS jewellery is handcrafted using premium brass and copper bases finished with lavish 22K/24K micro-gold plating. We select high-grade uncut Kundan/Polki stones, AAA cubic zirconia crystals, freshwater pearls, and traditional Jaipur pink meenakari enameling.',
+    answer: 'KUVERAS specializes in high-end artificial & fashion jewellery handcrafted using premium brass and copper bases finished with 22K Gold Tone Polish — Jewellery that Carries a Legacy. We select high-grade uncut Kundan/Polki stones, AAA cubic zirconia crystals, freshwater pearls, and traditional royal meenakari enameling.',
   },
   {
     id: 'faq-2',
@@ -21,17 +21,17 @@ const ALL_FAQS: FaqItem[] = [
   {
     id: 'faq-3',
     question: 'Do you offer jewellery rental?',
-    answer: 'Yes! KUVERAS offers an exclusive 3-day luxury rental concierge for grand bridal suites, Kundan chokers, and royal Rani Haar sets at a fraction of retail prices.',
+    answer: 'Yes! KUVERAS offers an exclusive 3-day luxury rental concierge for grand bridal suites, Kundan chokers, and royal Rani Haar sets with doorstep delivery across Delhi NCR & Pan-India at a fraction of retail prices.',
   },
   {
     id: 'faq-4',
     question: 'How does jewellery rental work?',
-    answer: 'Browse our collection and tap "Rent Via WhatsApp". Our concierge verifies your event date, collects a standard refundable deposit, and arranges insured doorstep delivery 1 day prior to your event and pickup the day after.',
+    answer: 'Browse our collection and tap "Rent Via WhatsApp". Our concierge verifies your event date, collects a standard refundable deposit, and arranges insured doorstep delivery across Delhi NCR and nationwide 1 day prior to your event and pickup the day after.',
   },
   {
     id: 'faq-5',
     question: 'How long does delivery take?',
-    answer: 'We provide FREE Insured Express Shipping across India for orders above ₹3,000. Domestic deliveries take 2 to 4 business days. International DHL Express shipping arrives within 4 to 7 business days.',
+    answer: 'We provide Express Delivery across Delhi. All orders above ₹3,000 qualify for FREE Insured Express Shipping across India via Bluedart/Delhivery. Standard dispatch within 24-48 hours with live tracking code.',
   },
   {
     id: 'faq-6',

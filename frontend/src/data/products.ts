@@ -2299,7 +2299,7 @@ export const TESTIMONIALS: Testimonial[] = [
   {
     id: 't1',
     name: 'Ananya Sharma',
-    location: 'Jaipur',
+    location: 'New Delhi',
     rating: 5,
     review:
       'The Meharika Kundan Set looked breathtaking on my wedding day! The craftsmanship and weight felt just like real heritage gold jewellery.',

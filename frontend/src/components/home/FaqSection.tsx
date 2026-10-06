@@ -12,7 +12,7 @@ const HOMEPAGE_FAQS: FaqItem[] = [
   {
     id: 'faq-1',
     question: 'What materials are used in KUVERAS jewellery?',
-    answer: 'KUVERAS jewellery is crafted with premium brass and copper bases, lavish 22K/24K micro-gold plating, hand-cut Kundan/Polki stones, AAA cubic zirconia, and authentic Jaipur meenakari enameling.',
+    answer: 'KUVERAS jewellery features premium artificial & fashion jewellery crafted with brass and copper bases, finished with 22K Gold Tone Polish, hand-cut Kundan/Polki stones, AAA cubic zirconia, and authentic royal meenakari enameling — Jewellery that Carries a Legacy.',
   },
   {
     id: 'faq-2',
@@ -22,12 +22,12 @@ const HOMEPAGE_FAQS: FaqItem[] = [
   {
     id: 'faq-3',
     question: 'Do you offer jewellery rental and how does it work?',
-    answer: 'Yes! We offer a 3-day luxury rental service for bridal and statement jewellery. Select "Rent Via WhatsApp" on any product page, choose your event dates, and our concierge will arrange insured delivery and doorstep pickup.',
+    answer: 'Yes! We offer a 3-day luxury rental service for bridal and statement jewellery with doorstep delivery across Delhi NCR. Select "Rent Via WhatsApp" on any product page, choose your event dates, and our concierge will arrange insured delivery and doorstep pickup.',
   },
   {
     id: 'faq-4',
     question: 'How long does delivery take?',
-    answer: 'We provide FREE Insured Express Shipping across India for orders above ₹3,000. Orders arrive within 2 to 4 business days. International DHL express shipping takes 4 to 7 business days.',
+    answer: 'We provide Express Delivery across Delhi. All orders above ₹3,000 qualify for FREE Insured Express Shipping across India via Bluedart/Delhivery. Standard dispatch within 24-48 hours with live tracking code.',
   },
   {
     id: 'faq-5',
